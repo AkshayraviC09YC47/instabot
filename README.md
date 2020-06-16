@@ -3,11 +3,11 @@ This is a free instagram bot 2020 with some cool features
 
 #enabled features
 
-instagram auto liker ☑️✅✔️
+instagram auto liker ✔️
 
-instagram auto report✔️✅☑️
+instagram auto report ✔️
 
-instagram auto followers✔️✅☑️
+instagram auto followers ✔️
 
 # installation
 
